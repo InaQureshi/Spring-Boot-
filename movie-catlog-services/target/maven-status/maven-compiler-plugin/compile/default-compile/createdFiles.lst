@@ -1,0 +1,6 @@
+io\c360\moviecatlogservices\Entity\Movie.class
+io\c360\moviecatlogservices\Entity\Rating.class
+io\c360\moviecatlogservices\resources\MovieCatlogResources.class
+io\c360\moviecatlogservices\Entity\UserRating.class
+io\c360\moviecatlogservices\Entity\CatlogItems.class
+io\c360\moviecatlogservices\MovieCatlogServicesApplication.class

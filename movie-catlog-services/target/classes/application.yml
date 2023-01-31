@@ -1,0 +1,14 @@
+server:
+  port: 8791
+spring:
+  application:
+    name: Movie-Catlog
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'hystrix.stream'
+hystrix:
+  dashboard:
+    proxy-stream-allow-list: '*'
