@@ -1,0 +1,7 @@
+io\c360\basefiletodb\Controller\FileUploadDBController.class
+io\c360\basefiletodb\Entity\DocumentDB.class
+io\c360\basefiletodb\Services\DocumentFileService.class
+io\c360\basefiletodb\Entity\FileUploadResponse.class
+io\c360\basefiletodb\Services\FileUploadService.class
+io\c360\basefiletodb\Controller\FileUploadLocalController.class
+io\c360\basefiletodb\BasefiletodbApplication.class
